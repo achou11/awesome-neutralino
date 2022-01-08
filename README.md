@@ -36,7 +36,7 @@ Collection of awesome resources for [Neutralino](https://neutralino.js.org/)
 
 ## Tools
 
-- (AppImage Bundler)[https://github.com/krypt0nn/neutralino-appimage-bundler]
+- [AppImage Bundler](https://github.com/krypt0nn/neutralino-appimage-bundler)
 
 ## Videos
 
