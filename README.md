@@ -27,6 +27,7 @@ Neutralinojs is a lightweight and portable desktop application development frame
 - [LitePy](https://github.com/codezri/litepy) - World's simplest Python editor built with Neutralinojs
 - [Drums](https://github.com/m00ke5h/Drums) - A Neutralino app for playing drums
 - [SimpleTime](https://github.com/navidmafi/SimpleTime) - A cross-platform timer and stopwatch app with modern design in mind
+- [MyoroEditor](https://github.com/antonkoetzler/MyoroEditor) - A simple text editor using the lightweight API NeutralinoJS
 
 ## Articles
 
@@ -57,7 +58,9 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 ## Tools
 
-- [AppImage Bundler](https://github.com/krypt0nn/neutralino-appimage-bundler)
+- [AppImage Bundler](https://github.com/krypt0nn/neutralino-appimage-bundler) - Bundle your Neutralino project in AppImage
+- [neu Appify](https://github.com/neutralinojs/neutralinojs-cli-appify)- Convert any SPA to a lightweight desktop app - Appify plugin for neu-cli
+
 
 ## Videos
 
