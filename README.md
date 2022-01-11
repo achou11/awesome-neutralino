@@ -23,11 +23,11 @@ Neutralinojs is a lightweight and portable desktop application development frame
 
 ## Apps
 
+- [Drums](https://github.com/m00ke5h/Drums) - A Neutralino app for playing drums
 - [LiteMan](https://github.com/codezri/liteman) - A simple file viewer app written in Neutralinojs
 - [LitePy](https://github.com/codezri/litepy) - World's simplest Python editor built with Neutralinojs
-- [Drums](https://github.com/m00ke5h/Drums) - A Neutralino app for playing drums
-- [SimpleTime](https://github.com/navidmafi/SimpleTime) - A cross-platform timer and stopwatch app with modern design in mind
 - [MyoroEditor](https://github.com/antonkoetzler/MyoroEditor) - A simple text editor using the lightweight API NeutralinoJS
+- [SimpleTime](https://github.com/navidmafi/SimpleTime) - A cross-platform timer and stopwatch app with modern design in mind
 
 ## Articles
 
